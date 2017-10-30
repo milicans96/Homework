@@ -1,0 +1,58 @@
+.logo{
+	display: inline-block;
+	width: 50px;
+	height:50px;
+	margin-top: 0px
+}
+ul{
+	display: inline-block;
+}
+ul li{
+	display: inline;
+	float: left;
+	margin: 15px;
+	padding: 0px
+}
+.div{
+	height: 750px;
+	width:500px;
+	margin:20px;
+	background:  #67E6EC;
+	float: left;
+}
+.naslov{
+	text-align: center;
+	color:  #008080;
+	font-size: 40px;
+	text-shadow: 3px 2px blue;
+}
+p{
+	font-size: 18px;
+	text-indent: 50px;
+	padding-top: 20px;
+     padding-left: 20px;
+     padding-right: 20px
+     }
+body{
+	background: url(priroda.jpg);
+}
+.img{
+	width: 700px;
+	height: 700px;
+	float: right;
+	margin: 20px
+}
+table th td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+td th{
+	padding: 5px;
+	text-align: left;
+}
+table{
+	display: inline;
+}
+th{
+	padding: 20px;
+}
